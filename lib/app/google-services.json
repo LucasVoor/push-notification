@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938354624192",
+    "project_id": "push-notification-stratagy",
+    "storage_bucket": "push-notification-stratagy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938354624192:android:6edefc3d10781365bb0f25",
+        "android_client_info": {
+          "package_name": "br.com.programacaonapratica.flutter_push_notification_strategy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938354624192-uc3qbku5oq9g784tkkjerpfp3lohe0o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZb_kmXX4IydOEFEeDp3OhZ4Ehmfzrg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938354624192-uc3qbku5oq9g784tkkjerpfp3lohe0o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
